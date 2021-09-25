@@ -1,0 +1,711 @@
+[
+    {
+        "topicUrl": "https://www.github.com/topics/docker",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/moby/moby",
+                "issues": [
+                    {
+                        "issueName": "ERROR: failed to do request: Head dial tcp: lookup registry- 1.docker.io: no such host, failed to solve with frontend dockerfile.v0: failed to create LLB definition",
+                        "issueUrl": "https://www.github.com/moby/moby/issues/42867"
+                    },
+                    {
+                        "issueName": "OomKillDisable / --oom-kill-disable not supported on cgroups v2",
+                        "issueUrl": "https://www.github.com/moby/moby/issues/42865"
+                    },
+                    {
+                        "issueName": "skipcache argument for Dockerfile ADD command, fill up all your whole disk space in no time",
+                        "issueUrl": "https://www.github.com/moby/moby/issues/42864"
+                    },
+                    {
+                        "issueName": "$PATH and ${PATH} should always mean the same thing within a Dockerfile ENV instruction",
+                        "issueUrl": "https://www.github.com/moby/moby/issues/42863"
+                    },
+                    {
+                        "issueName": "overlay2 storage Container merged directory visible to non root user",
+                        "issueUrl": "https://www.github.com/moby/moby/issues/42861"
+                    },
+                    {
+                        "issueName": "BUG: Requested host port bindings are nondeterministically missing after creating a container in the Go SDK",
+                        "issueUrl": "https://www.github.com/moby/moby/issues/42860"
+                    },
+                    {
+                        "issueName": "minor quirks in progress formatting for docker run/pull",
+                        "issueUrl": "https://www.github.com/moby/moby/issues/42857"
+                    },
+                    {
+                        "issueName": "Bug container does not start on swarm",
+                        "issueUrl": "https://www.github.com/moby/moby/issues/42853"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/netdata/netdata",
+                "issues": [
+                    {
+                        "issueName": "Syntax Error in netdata uninstaller script",
+                        "issueUrl": "https://www.github.com/netdata/netdata/issues/11530"
+                    },
+                    {
+                        "issueName": "dbengine loses all metrics data on service restart",
+                        "issueUrl": "https://www.github.com/netdata/netdata/issues/11529"
+                    },
+                    {
+                        "issueName": "/etc/cron.daily/netdata-updater email from cron but update succeed",
+                        "issueUrl": "https://www.github.com/netdata/netdata/issues/11519"
+                    },
+                    {
+                        "issueName": "loading dashboard via wireguard from rasbian install",
+                        "issueUrl": "https://www.github.com/netdata/netdata/issues/11518"
+                    },
+                    {
+                        "issueName": "Race between short-lived processes & procfs parsing",
+                        "issueUrl": "https://www.github.com/netdata/netdata/issues/11512"
+                    },
+                    {
+                        "issueName": "Naming convention of LXD container graphs keep changing between versions",
+                        "issueUrl": "https://www.github.com/netdata/netdata/issues/11503"
+                    },
+                    {
+                        "issueName": "Disk space metrics missing for standard mounted filesystem (/home)",
+                        "issueUrl": "https://www.github.com/netdata/netdata/issues/11498"
+                    },
+                    {
+                        "issueName": "node.d is not running",
+                        "issueUrl": "https://www.github.com/netdata/netdata/issues/11477"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/macrozheng/mall",
+                "issues": [
+                    {
+                        "issueName": "关于全局异常捕获",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/502"
+                    },
+                    {
+                        "issueName": "db -patch",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/500"
+                    },
+                    {
+                        "issueName": "mq 生产者的confirm机制没开启吗 想看一下这种ack = false 之后的处理逻辑",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/499"
+                    },
+                    {
+                        "issueName": " Request failed with status code 500",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/498"
+                    },
+                    {
+                        "issueName": "请问SKU是否必须有才能下单吗",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/497"
+                    },
+                    {
+                        "issueName": "商品价格优惠 满减活动 后端计算错误",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/492"
+                    },
+                    {
+                        "issueName": "添加商品属性存在原子型问题",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/491"
+                    },
+                    {
+                        "issueName": "mall-common模块下WebLogAspect的切面类可能会造成信息泄漏",
+                        "issueUrl": "https://www.github.com/macrozheng/mall/issues/471"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/traefik/traefik",
+                "issues": [
+                    {
+                        "issueName": "Plugin not loading in Traefik 2.5",
+                        "issueUrl": "https://www.github.com/traefik/traefik/issues/8450"
+                    },
+                    {
+                        "issueName": "X-Forwarded-Proto is set to https instead of http",
+                        "issueUrl": "https://www.github.com/traefik/traefik/issues/8440"
+                    },
+                    {
+                        "issueName": "Port ranges for entrypoints in static configuration",
+                        "issueUrl": "https://www.github.com/traefik/traefik/issues/8438"
+                    },
+                    {
+                        "issueName": "Error: \"metrics cannot be a standalone element\"",
+                        "issueUrl": "https://www.github.com/traefik/traefik/issues/8430"
+                    },
+                    {
+                        "issueName": "Allow directly specifying Consul token in Consul KV backend",
+                        "issueUrl": "https://www.github.com/traefik/traefik/issues/8417"
+                    },
+                    {
+                        "issueName": "Cross namespace is always allowed for TLSOptions, TLSStore and ServersTransport resources",
+                        "issueUrl": "https://www.github.com/traefik/traefik/issues/8415"
+                    },
+                    {
+                        "issueName": "Traefik drops traffic from outside of the network ",
+                        "issueUrl": "https://www.github.com/traefik/traefik/issues/8414"
+                    },
+                    {
+                        "issueName": "Error while setting deadline && Error while terminating connection",
+                        "issueUrl": "https://www.github.com/traefik/traefik/issues/8412"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/Kong/kong",
+                "issues": [
+                    {
+                        "issueName": "upstream deletion can break service proxying",
+                        "issueUrl": "https://www.github.com/Kong/kong/issues/7859"
+                    },
+                    {
+                        "issueName": "On a fresh kong installation migrations fails",
+                        "issueUrl": "https://www.github.com/Kong/kong/issues/7845"
+                    },
+                    {
+                        "issueName": "http request to  8001/status report \" lua entry thread aborted: runtime error: /usr/local/share/lua/5.1/lapis/init.lua:17: attempt to index local 'app_cls' (a userdata value)\"",
+                        "issueUrl": "https://www.github.com/Kong/kong/issues/7843"
+                    },
+                    {
+                        "issueName": "oauth2",
+                        "issueUrl": "https://www.github.com/Kong/kong/issues/7836"
+                    },
+                    {
+                        "issueName": "Kong Marking unhealthy target healthy again on deletion of target or addition of new target",
+                        "issueUrl": "https://www.github.com/Kong/kong/issues/7835"
+                    },
+                    {
+                        "issueName": "Enable key auth plugin output is very odd",
+                        "issueUrl": "https://www.github.com/Kong/kong/issues/7807"
+                    },
+                    {
+                        "issueName": "Kong AccessTime Latency quiet large for 1.8% of tx for a specific proxy",
+                        "issueUrl": "https://www.github.com/Kong/kong/issues/7805"
+                    },
+                    {
+                        "issueName": "Kong IP restriction plugin does not allow DNS name, only IP is allowed for it.",
+                        "issueUrl": "https://www.github.com/Kong/kong/issues/7794"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/wagoodman/dive",
+                "issues": [
+                    {
+                        "issueName": "dive with podman on MacOS",
+                        "issueUrl": "https://www.github.com/wagoodman/dive/issues/368"
+                    },
+                    {
+                        "issueName": "containerd and nerdctl",
+                        "issueUrl": "https://www.github.com/wagoodman/dive/issues/367"
+                    },
+                    {
+                        "issueName": "newer version",
+                        "issueUrl": "https://www.github.com/wagoodman/dive/issues/366"
+                    },
+                    {
+                        "issueName": "How to diff 2 images after updates?",
+                        "issueUrl": "https://www.github.com/wagoodman/dive/issues/365"
+                    },
+                    {
+                        "issueName": "Warning: No available formula or cask with the name \"dive\".",
+                        "issueUrl": "https://www.github.com/wagoodman/dive/issues/364"
+                    },
+                    {
+                        "issueName": "go get ...: undefined: client.Opt, client.WithAPIVersionNegotiation",
+                        "issueUrl": "https://www.github.com/wagoodman/dive/issues/361"
+                    },
+                    {
+                        "issueName": "Question:  how to inspect local image?",
+                        "issueUrl": "https://www.github.com/wagoodman/dive/issues/360"
+                    },
+                    {
+                        "issueName": "dive always fetch a new image from my dockerhub",
+                        "issueUrl": "https://www.github.com/wagoodman/dive/issues/359"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ityouknow/spring-boot-examples",
+                "issues": [
+                    {
+                        "issueName": "关于pom工程配置配置的问题",
+                        "issueUrl": "https://www.github.com/ityouknow/spring-boot-examples/issues/147"
+                    },
+                    {
+                        "issueName": "关于模块管理的小建议",
+                        "issueUrl": "https://www.github.com/ityouknow/spring-boot-examples/issues/143"
+                    },
+                    {
+                        "issueName": "pageable trong spring boot",
+                        "issueUrl": "https://www.github.com/ityouknow/spring-boot-examples/issues/141"
+                    },
+                    {
+                        "issueName": "Some questions",
+                        "issueUrl": "https://www.github.com/ityouknow/spring-boot-examples/issues/133"
+                    },
+                    {
+                        "issueName": "我就是来看看有没有人提issue，还有这是我人生中的第一个issue",
+                        "issueUrl": "https://www.github.com/ityouknow/spring-boot-examples/issues/40"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/mastodon/mastodon",
+                "issues": [
+                    {
+                        "issueName": "Development Works out of the Box",
+                        "issueUrl": "https://www.github.com/mastodon/mastodon/issues/16747"
+                    },
+                    {
+                        "issueName": "Indication of the copyright for the profile picture and the header",
+                        "issueUrl": "https://www.github.com/mastodon/mastodon/issues/16746"
+                    },
+                    {
+                        "issueName": "Email notifications don't indicate the presence of a poll",
+                        "issueUrl": "https://www.github.com/mastodon/mastodon/issues/16745"
+                    },
+                    {
+                        "issueName": "Issues with database locales / implement Unicode case-folding",
+                        "issueUrl": "https://www.github.com/mastodon/mastodon/issues/16727"
+                    },
+                    {
+                        "issueName": "A static avatar generated from a GIF is in incorrect resolution (zoomed and cropped)",
+                        "issueUrl": "https://www.github.com/mastodon/mastodon/issues/16721"
+                    },
+                    {
+                        "issueName": "check filesize on UX client side \"This file is too large\"",
+                        "issueUrl": "https://www.github.com/mastodon/mastodon/issues/16718"
+                    },
+                    {
+                        "issueName": "[Bug] \"reactivated/reattached\" accounts seem to have history of previous follower count",
+                        "issueUrl": "https://www.github.com/mastodon/mastodon/issues/16717"
+                    },
+                    {
+                        "issueName": "SSO: update user informations when they change in SSO",
+                        "issueUrl": "https://www.github.com/mastodon/mastodon/issues/16713"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/mvvmcross",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/MvvmCross/MvvmCross",
+                "issues": [
+                    {
+                        "issueName": "Android OverridePendingTransition freeze screen",
+                        "issueUrl": "https://www.github.com/MvvmCross/MvvmCross/issues/4267"
+                    },
+                    {
+                        "issueName": "MvvmCross 8.X.X depends on AndroidX libs incompatible with latest Xamarin Forms 5 SR (5.0.0.2083)",
+                        "issueUrl": "https://www.github.com/MvvmCross/MvvmCross/issues/4266"
+                    },
+                    {
+                        "issueName": "Empty page when using MvxPopPresentationHint",
+                        "issueUrl": "https://www.github.com/MvvmCross/MvvmCross/issues/4263"
+                    },
+                    {
+                        "issueName": "Remove broken Navigate methods that pass back data when calling Close",
+                        "issueUrl": "https://www.github.com/MvvmCross/MvvmCross/issues/4262"
+                    },
+                    {
+                        "issueName": "I get message in log: \"Shared element transition requires Android v21+.\" on v29 API",
+                        "issueUrl": "https://www.github.com/MvvmCross/MvvmCross/issues/4260"
+                    },
+                    {
+                        "issueName": "AppDelegate not being called after upgrading from 7.1.2 to 8.1.2",
+                        "issueUrl": "https://www.github.com/MvvmCross/MvvmCross/issues/4259"
+                    },
+                    {
+                        "issueName": "Can't assign binding to KeyBinding in TextBox ",
+                        "issueUrl": "https://www.github.com/MvvmCross/MvvmCross/issues/4256"
+                    },
+                    {
+                        "issueName": "Bind MvxCommand.IsRunning property directly to the view",
+                        "issueUrl": "https://www.github.com/MvvmCross/MvvmCross/issues/4253"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/MvvmCross/MvvmCross-Samples",
+                "issues": [
+                    {
+                        "issueName": "Bump System.Text.RegularExpressions from 4.3.0 to 4.3.1 in /OldSamples/BestSellers/BestSellers.Touch",
+                        "issueUrl": "https://www.github.com/MvvmCross/MvvmCross-Samples/pull/163"
+                    },
+                    {
+                        "issueName": "Bump System.Text.RegularExpressions from 4.3.0 to 4.3.1 in /OldSamples/BestSellers/BestSellers.Droid",
+                        "issueUrl": "https://www.github.com/MvvmCross/MvvmCross-Samples/pull/162"
+                    },
+                    {
+                        "issueName": "Bump System.Text.RegularExpressions from 4.3.0 to 4.3.1 in /WorkingWithCollections/Collections.iOS",
+                        "issueUrl": "https://www.github.com/MvvmCross/MvvmCross-Samples/pull/161"
+                    },
+                    {
+                        "issueName": "upgrade/StarWarsForms-MvvmCross7",
+                        "issueUrl": "https://www.github.com/MvvmCross/MvvmCross-Samples/pull/148"
+                    },
+                    {
+                        "issueName": "Upgrade Babel sample (WPF & Android)",
+                        "issueUrl": "https://www.github.com/MvvmCross/MvvmCross-Samples/pull/136"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/MvvmCross/NPlus1DaysOfMvvmCross",
+                "issues": [
+                    {
+                        "issueName": "Applications crash when adding MVVMCross - HotTuna Droid Fragment . ",
+                        "issueUrl": "https://www.github.com/MvvmCross/NPlus1DaysOfMvvmCross/issues/7"
+                    },
+                    {
+                        "issueName": "Update N=27 Ninja sample",
+                        "issueUrl": "https://www.github.com/MvvmCross/NPlus1DaysOfMvvmCross/issues/5"
+                    },
+                    {
+                        "issueName": "Consider dropping the nuget dll's (use restore instead)",
+                        "issueUrl": "https://www.github.com/MvvmCross/NPlus1DaysOfMvvmCross/issues/4"
+                    },
+                    {
+                        "issueName": "Remove Z-MacOnly",
+                        "issueUrl": "https://www.github.com/MvvmCross/NPlus1DaysOfMvvmCross/issues/3"
+                    },
+                    {
+                        "issueName": "Retest CollectionView requirement to check isInitialized",
+                        "issueUrl": "https://www.github.com/MvvmCross/NPlus1DaysOfMvvmCross/issues/1"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/Baseflow/Chameleon",
+                "issues": [
+                    {
+                        "issueName": "Duplicate OnCreate on startup when theme is selected",
+                        "issueUrl": "https://www.github.com/Baseflow/Chameleon/issues/103"
+                    },
+                    {
+                        "issueName": "Google Cast?",
+                        "issueUrl": "https://www.github.com/Baseflow/Chameleon/issues/102"
+                    },
+                    {
+                        "issueName": "OnResume => HandleIntent() goes to a blank page",
+                        "issueUrl": "https://www.github.com/Baseflow/Chameleon/issues/96"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/Plac3hold3r/MvxScaffolding",
+                "issues": [
+                    {
+                        "issueName": "LinkerPleaseInclude.cs UISearchBar addition?",
+                        "issueUrl": "https://www.github.com/Plac3hold3r/MvxScaffolding/issues/994"
+                    },
+                    {
+                        "issueName": "Visual Studio 2022 support",
+                        "issueUrl": "https://www.github.com/Plac3hold3r/MvxScaffolding/issues/957"
+                    },
+                    {
+                        "issueName": "UWP Forms Test project does not build",
+                        "issueUrl": "https://www.github.com/Plac3hold3r/MvxScaffolding/issues/775"
+                    },
+                    {
+                        "issueName": "Rider Support",
+                        "issueUrl": "https://www.github.com/Plac3hold3r/MvxScaffolding/issues/692"
+                    },
+                    {
+                        "issueName": "Visual Studio for Mac Support",
+                        "issueUrl": "https://www.github.com/Plac3hold3r/MvxScaffolding/issues/691"
+                    },
+                    {
+                        "issueName": "Missing WPF in Xamarin Forms.",
+                        "issueUrl": "https://www.github.com/Plac3hold3r/MvxScaffolding/issues/124"
+                    },
+                    {
+                        "issueName": "[Feature Request] Tabs navigation",
+                        "issueUrl": "https://www.github.com/Plac3hold3r/MvxScaffolding/issues/93"
+                    },
+                    {
+                        "issueName": "[Feature Request] Switch to use xUnit test framework and runners",
+                        "issueUrl": "https://www.github.com/Plac3hold3r/MvxScaffolding/issues/92"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/Cheesebaron/Cheesebaron.MvxPlugins",
+                "issues": [
+                    {
+                        "issueName": "Update nuget package descriptions",
+                        "issueUrl": "https://www.github.com/Cheesebaron/Cheesebaron.MvxPlugins/issues/75"
+                    },
+                    {
+                        "issueName": "Settings todo",
+                        "issueUrl": "https://www.github.com/Cheesebaron/Cheesebaron.MvxPlugins/issues/47"
+                    },
+                    {
+                        "issueName": "xUnit tests",
+                        "issueUrl": "https://www.github.com/Cheesebaron/Cheesebaron.MvxPlugins/issues/39"
+                    },
+                    {
+                        "issueName": "Change licenses?",
+                        "issueUrl": "https://www.github.com/Cheesebaron/Cheesebaron.MvxPlugins/issues/38"
+                    },
+                    {
+                        "issueName": "Saving and restoring settings with different decimal points",
+                        "issueUrl": "https://www.github.com/Cheesebaron/Cheesebaron.MvxPlugins/issues/31"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/Nethereum/Nethereum.UI.Wallet.Sample",
+                "issues": [
+                    {
+                        "issueName": "No option to send ETH / Token Transfer Requires Signing",
+                        "issueUrl": "https://www.github.com/Nethereum/Nethereum.UI.Wallet.Sample/issues/9"
+                    },
+                    {
+                        "issueName": "Release mode of UWP error",
+                        "issueUrl": "https://www.github.com/Nethereum/Nethereum.UI.Wallet.Sample/issues/7"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/Baseflow/MvxForms",
+                "issues": []
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/dotnet",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/dotnet/aspnetcore",
+                "issues": [
+                    {
+                        "issueName": "Blazor Wasm Hosted Dockerized not working in debug mode",
+                        "issueUrl": "https://www.github.com/dotnet/aspnetcore/issues/36742"
+                    },
+                    {
+                        "issueName": "[blazor] Can nuget packages that enables p2p be supported in blazor? is it possible for now?",
+                        "issueUrl": "https://www.github.com/dotnet/aspnetcore/issues/36741"
+                    },
+                    {
+                        "issueName": "Razor Class Library isn't adding static assets outside the wwwroot folder",
+                        "issueUrl": "https://www.github.com/dotnet/aspnetcore/issues/36740"
+                    },
+                    {
+                        "issueName": "HTTP 400 (\"Invalid Host header\") for link-local IPv6 addresses",
+                        "issueUrl": "https://www.github.com/dotnet/aspnetcore/issues/36739"
+                    },
+                    {
+                        "issueName": "Startup improvement: json\n",
+                        "issueUrl": "https://www.github.com/dotnet/aspnetcore/issues/36738"
+                    },
+                    {
+                        "issueName": "Perf regression: json_actix\n",
+                        "issueUrl": "https://www.github.com/dotnet/aspnetcore/issues/36737"
+                    },
+                    {
+                        "issueName": "Version 16.11.3 broke something.  New warnings appear!",
+                        "issueUrl": "https://www.github.com/dotnet/aspnetcore/issues/36736"
+                    },
+                    {
+                        "issueName": "Blazor server PageTitle component not working with Hot reload",
+                        "issueUrl": "https://www.github.com/dotnet/aspnetcore/issues/36735"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/SeleniumHQ/selenium",
+                "issues": [
+                    {
+                        "issueName": "Unexpected behavior of RelativeLocator.above()",
+                        "issueUrl": "https://www.github.com/SeleniumHQ/selenium/issues/9851"
+                    },
+                    {
+                        "issueName": "Selenium 4 - Node taking 3 minutes to be registered as UP",
+                        "issueUrl": "https://www.github.com/SeleniumHQ/selenium/issues/9847"
+                    },
+                    {
+                        "issueName": "Dynamic Selenium 4 grid on kubernetes",
+                        "issueUrl": "https://www.github.com/SeleniumHQ/selenium/issues/9845"
+                    },
+                    {
+                        "issueName": "class org.openqa.selenium.remote.RemoteWebDriver cannot be cast to class org.openqa.selenium.html5.WebStorage",
+                        "issueUrl": "https://www.github.com/SeleniumHQ/selenium/issues/9844"
+                    },
+                    {
+                        "issueName": "Basic test using Firefox on Window occasionally fails (selenium-java 4.0.0-rc-1)",
+                        "issueUrl": "https://www.github.com/SeleniumHQ/selenium/issues/9842"
+                    },
+                    {
+                        "issueName": "Geolocation access not working in Mac OS (selenium-java 4.0.0-rc-1)",
+                        "issueUrl": "https://www.github.com/SeleniumHQ/selenium/issues/9841"
+                    },
+                    {
+                        "issueName": "Grid custom capabilities don't work correctly",
+                        "issueUrl": "https://www.github.com/SeleniumHQ/selenium/issues/9839"
+                    },
+                    {
+                        "issueName": "IEDriverServer times out when opening a page in Edge in IE mode with Java",
+                        "issueUrl": "https://www.github.com/SeleniumHQ/selenium/issues/9837"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/dotnet/corefx",
+                "issues": [
+                    {
+                        "issueName": "[release/3.1] Fix building with clang 13",
+                        "issueUrl": "https://www.github.com/dotnet/corefx/pull/43104"
+                    },
+                    {
+                        "issueName": "[release/3.1] Fix ReadOnlySequence created out of sliced Memory owned by MemoryManager",
+                        "issueUrl": "https://www.github.com/dotnet/corefx/pull/43102"
+                    },
+                    {
+                        "issueName": "[release/3.1] Remove the use of dotnet-core",
+                        "issueUrl": "https://www.github.com/dotnet/corefx/pull/43100"
+                    },
+                    {
+                        "issueName": "[release/3.1] WIP: Openssl 3.0 support",
+                        "issueUrl": "https://www.github.com/dotnet/corefx/pull/43078"
+                    },
+                    {
+                        "issueName": "Update BuildTools, CoreFx, ProjectNTfs, ProjectNTfsTestILC to rc1-05907-02, servicing-29321-01, rel-29512-01, rel-29512-01, respectively (release/uwp6.2)",
+                        "issueUrl": "https://www.github.com/dotnet/corefx/pull/42966"
+                    },
+                    {
+                        "issueName": "[release/3.1] Improve Expression.Lambda<TDelegate> performance (dotnet/runtime#32768)",
+                        "issueUrl": "https://www.github.com/dotnet/corefx/pull/42874"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/dotnet/core",
+                "issues": [
+                    {
+                        "issueName": "help",
+                        "issueUrl": "https://www.github.com/dotnet/core/issues/6719"
+                    },
+                    {
+                        "issueName": "I have a problem while creating a project in c#",
+                        "issueUrl": "https://www.github.com/dotnet/core/issues/6715"
+                    },
+                    {
+                        "issueName": "i can execute the first command however the next comand fails",
+                        "issueUrl": "https://www.github.com/dotnet/core/issues/6714"
+                    },
+                    {
+                        "issueName": "Unhandled exception. System.IO.DirectoryNotFoundException:    .nuget\\packages\\dg.signalr\\2.2.2021.918-beta09\\staticwebassets\\",
+                        "issueUrl": "https://www.github.com/dotnet/core/issues/6713"
+                    },
+                    {
+                        "issueName": "Create new project on mac OS by cli",
+                        "issueUrl": "https://www.github.com/dotnet/core/issues/6710"
+                    },
+                    {
+                        "issueName": "About the default keyword",
+                        "issueUrl": "https://www.github.com/dotnet/core/issues/6709"
+                    },
+                    {
+                        "issueName": "Add Description to the ExcludeFromCodeCoverage Attribute",
+                        "issueUrl": "https://www.github.com/dotnet/core/issues/6705"
+                    },
+                    {
+                        "issueName": "i cant add counter in home page",
+                        "issueUrl": "https://www.github.com/dotnet/core/issues/6703"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/microsoft/react-native-windows",
+                "issues": [
+                    {
+                        "issueName": "Wasteful string copies is napi RNW code",
+                        "issueUrl": "https://www.github.com/microsoft/react-native-windows/issues/8650"
+                    },
+                    {
+                        "issueName": "Playground Win32 isn't documented",
+                        "issueUrl": "https://www.github.com/microsoft/react-native-windows/issues/8649"
+                    },
+                    {
+                        "issueName": "Hermes crashes on formatting out-of-range date/time inputs",
+                        "issueUrl": "https://www.github.com/microsoft/react-native-windows/issues/8646"
+                    },
+                    {
+                        "issueName": "Consider adding tabIndex to Pressable",
+                        "issueUrl": "https://www.github.com/microsoft/react-native-windows/issues/8643"
+                    },
+                    {
+                        "issueName": "Add Support for Metro http Scheme on Windows",
+                        "issueUrl": "https://www.github.com/microsoft/react-native-windows/issues/8642"
+                    },
+                    {
+                        "issueName": "Exported types don't include react-native types like View, Text, and AppRegistry",
+                        "issueUrl": "https://www.github.com/microsoft/react-native-windows/issues/8627"
+                    },
+                    {
+                        "issueName": "Module projects upgraded with react-native-windows-init will inevitably break app consumers using autolinking",
+                        "issueUrl": "https://www.github.com/microsoft/react-native-windows/issues/8621"
+                    },
+                    {
+                        "issueName": "Add UI Tests Validating Live Reload/Fast Refresh",
+                        "issueUrl": "https://www.github.com/microsoft/react-native-windows/issues/8609"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/quozd/awesome-dotnet",
+                "issues": []
+            },
+            {
+                "repoUrl": "https://www.github.com/icsharpcode/ILSpy",
+                "issues": [
+                    {
+                        "issueName": "ICSharpCode.ILSpy.AssertionFailedException",
+                        "issueUrl": "https://www.github.com/icsharpcode/ILSpy/issues/2503"
+                    },
+                    {
+                        "issueName": "ILSpyCmd does not recognize single-file executables  ",
+                        "issueUrl": "https://www.github.com/icsharpcode/ILSpy/issues/2498"
+                    },
+                    {
+                        "issueName": "VB.NET decimal constants are not supported",
+                        "issueUrl": "https://www.github.com/icsharpcode/ILSpy/issues/2495"
+                    },
+                    {
+                        "issueName": "Make SearchTermMatches virtual for possible class extensions",
+                        "issueUrl": "https://www.github.com/icsharpcode/ILSpy/issues/2493"
+                    },
+                    {
+                        "issueName": "Microsoft Store package does not contain addins",
+                        "issueUrl": "https://www.github.com/icsharpcode/ILSpy/issues/2490"
+                    },
+                    {
+                        "issueName": "Don't lock DLLs or PDBs on Loaded Assemblies",
+                        "issueUrl": "https://www.github.com/icsharpcode/ILSpy/issues/2486"
+                    },
+                    {
+                        "issueName": "ICSharpCode.ILSpy.AssertionFailedException: Stack type mismatch in 'this' argument in call to get_StaticName()",
+                        "issueUrl": "https://www.github.com/icsharpcode/ILSpy/issues/2483"
+                    },
+                    {
+                        "issueName": "Ability to apply filter search results",
+                        "issueUrl": "https://www.github.com/icsharpcode/ILSpy/issues/2482"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/dotnet/coreclr",
+                "issues": [
+                    {
+                        "issueName": "[release/3.1] Fix deadlock in EventPipe session stop",
+                        "issueUrl": "https://www.github.com/dotnet/coreclr/pull/28165"
+                    }
+                ]
+            }
+        ]
+    }
+]
